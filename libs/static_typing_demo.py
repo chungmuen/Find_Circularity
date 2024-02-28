@@ -1,3 +1,4 @@
+"""static typing example"""
 from __future__ import annotations
 
 
