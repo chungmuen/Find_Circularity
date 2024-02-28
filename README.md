@@ -1,9 +1,9 @@
-# Python Tutorial
+# Find Circularity
 [![CI Build](https://github.com/chungmuen/Find_Circularity/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/chungmuen/Find_Circularity/actions/workflows/build.yml)
 [![Docstring](./docs_badge.svg)](https://github.com/chungmuen/Find_Circularity/actions/workflows/build.yml)
 [![Documentation Status](https://readthedocs.org/projects/find-circularity/badge/?version=latest)](https://find-circularity.readthedocs.io/en/latest/?badge=latest)
 
-# python tutorial about testing
+# python tutorial about testing - hands-on practice
 
 Objective Unit test: test business logic of the code, and only our own code, not library/framework.
 ex: using sqlalchemy to create an entry in a DB. creating an object from the model, and commit the object with session.commit(Object). 
