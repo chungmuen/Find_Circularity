@@ -1,0 +1,5 @@
+[run]
+source = libs
+relative_files = True
+omit =
+    tests/*
