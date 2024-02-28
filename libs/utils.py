@@ -18,7 +18,7 @@ def build_graph(edges):
     :example: Given edges [(0, 1), (0, 2), (1, 2), (2, 3)], the function returns
         {0: [1, 2], 1: [2], 2: [3]}.
     """
-    graph = {}
+    graph: dict[int, list] = {}
     for edge in edges:
         if edge[0] in graph:
             graph[edge[0]].append(edge[1])
