@@ -1,6 +1,6 @@
 # Python Tutorial
-[![CI Build](https://github.com/chungmuen/Python_Tutorial/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/chungmuen/Python_Tutorial/actions/workflows/build.yml)
-[![Docstring](./docs_badge.svg)](https://github.com/chungmuen/Python_Tutorial/actions/workflows/build.yml)
+[![CI Build](https://github.com/chungmuen/Find_Circularity/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/chungmuen/Find_Circularity/actions/workflows/build.yml)
+[![Docstring](./docs_badge.svg)](https://github.com/chungmuen/Find_Circularity/actions/workflows/build.yml)
 [![Documentation Status](https://readthedocs.org/projects/python-tutorial-dom-muen/badge/?version=latest)](https://python-tutorial-dom-muen.readthedocs.io/en/latest/?badge=latest)
       
 
